@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HikariXP.
 - 😅A suck Game Developer, waste time in learn fucking Unity Manual. 
-- 📫 Reach me and Talk some shit : QQ:798296184\ Or Email:798296184@qq.com
+- 📫 Reach me and Talk some shit : QQ:798296184\ Or Email:798296184@qq.com  
+Gmail:charcharsui@gmail.com Or Gmail:acrylicxp@gmail.com
 # Skill 
 Nothing but basic Unity Dev, or C# garbage console programme. 😅
 Oh damn, Unity suck too.
